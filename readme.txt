@@ -7,3 +7,4 @@ merge no fast-forward.
 merge with fast-forward.
 merge no-ff again.
 merge ff again.
+test bug branch in dev.
