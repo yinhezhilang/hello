@@ -8,3 +8,4 @@ merge with fast-forward.
 merge no-ff again.
 merge ff again.
 add in branch issue-101.
+test bug branch in dev.
