@@ -6,3 +6,4 @@ Creating a branch is quick and simple.
 merge no fast-forward.
 merge with fast-forward.
 merge no-ff again.
+merge ff again.
