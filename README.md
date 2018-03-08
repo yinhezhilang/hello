@@ -1,2 +1,4 @@
 # hello
-My name is WangZhenguo. Nice to meet you!
+My name is WangZhenguo.
+I'm a PHP coder.
+Nice to meet you!
